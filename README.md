@@ -52,7 +52,7 @@ $ python auto_dubber.py
 ```
 Enter the folder path containing your videos when prompted.
 
-Output
+Output <br>
 For each video, the script will generate:
 - video_name.srt – English subtitles
 - video_name_ar.srt – Arabic subtitles
