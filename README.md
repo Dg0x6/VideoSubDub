@@ -38,14 +38,14 @@ whisper.load_model("base")  # Change "base" to "small", "medium", or "large" if 
 ```
 Usage
 
-1. Convert Video to Subtitles Only
+- Convert Video to Subtitles Only
 To generate English and Arabic subtitles:
 ```
 $ python video_to_srt.py
 ```
 Enter the folder path containing your videos when prompted.
 
-2. Convert Video to Subtitles & Dubbed Audio
+- Convert Video to Subtitles & Dubbed Audio
 To generate subtitles and Arabic dubbing:
 ```
 $ python auto_dubber.py
