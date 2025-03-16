@@ -29,7 +29,7 @@ whisper.load_model("base")  # Change "base" to another model if needed
 🚀 Usage
 Run the script:
 ```
-python video_subtitle_converter.py
+python video_to_srt.py
 ```
 Enter the folder path containing your videos when prompted.
 
