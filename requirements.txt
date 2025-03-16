@@ -1,0 +1,4 @@
+whisper
+moviepy
+tqdm
+deep-translator
