@@ -1,4 +1,4 @@
-# video-subtitle-converter
+#  Video Subtitle & Dubbing
 Video Subtitle & Dubbing Converter
 
 Description
