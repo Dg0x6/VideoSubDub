@@ -2,7 +2,7 @@
 This script extracts audio from video files, transcribes it into text using OpenAI's Whisper, generates an SRT subtitle file, and translates it into Arabic.
 
 🔹 Features
-✅ Convert video to subtitles (.srt)
+✅ Convert video to subtitles (.srt) <br>
 ✅ Transcribe audio using Whisper (local model, no API required)
 ✅ Translate subtitles from English to Arabic
 ✅ Supports multiple video formats: .mp4, .avi, .mov, .mkv
