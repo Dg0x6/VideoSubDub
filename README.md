@@ -6,6 +6,11 @@ This script extracts audio from video files, transcribes it into text using Open
 ✅ Transcribe audio using Whisper (local model, no API required)
 ✅ Translate subtitles from English to Arabic
 ✅ Supports multiple video formats: .mp4, .avi, .mov, .mkv
+```
+git clone https://github.com/Dg0x6/video-subtitle-converter.git
+cd video-subtitle-converter
+```
+
 
 ⚡ Installation
 1️⃣ Clone the Repository
