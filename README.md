@@ -30,8 +30,8 @@ whisper.load_model("base")  # Change "base" to another model if needed
 Run the script:
 ```
 python video_subtitle_converter.py
-Enter the folder path containing your videos when prompted.
 ```
+Enter the folder path containing your videos when prompted.
 
 🎯 Output
 For each video, the script will generate:
