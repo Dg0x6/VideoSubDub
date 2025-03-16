@@ -58,8 +58,8 @@ For each video, the script will generate:
 - video_name_ar.srt – Arabic subtitles
 - video_name_dubbed.mp4 – Video with Arabic voice dubbing (only for auto_dubber.py)
   
-License
+License<br>
 This project is licensed under the MIT License.
 
-Author
+Author<br>
 👤 Muhammed Galal
