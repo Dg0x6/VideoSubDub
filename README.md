@@ -19,8 +19,8 @@ Installation
 
 1️⃣ Clone the Repository
 ```
-$ git clone https://github.com/your_github_username/video-subtitle-converter.git
-$ cd video-subtitle-converter
+$ git clone https://github.com/Dg0x6/VideoSubDub.git
+$ cd VideoSubDub
 ```
 2️⃣ Install Dependencies
 
