@@ -27,6 +27,8 @@ $ cd VideoSubDub
 Make sure you have Python installed (Python 3.8+ recommended). Then, run:
 ```
 $ pip install -r requirements.txt
+$ pip install git+https://github.com/openai/whisper.git
+$ pip install moviepy==1.0.3
 ```
 
 3️⃣ Download Whisper Model
